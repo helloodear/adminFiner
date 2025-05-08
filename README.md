@@ -25,6 +25,11 @@
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/yourusername/adminfinder.git
+   git clone https://github.com/helloodear/adminFiner.git
+   ls
    cd adminfinder
-
+   ls
+   python3 main.py
+   
+## Thank for using my tool
+ happy hacking 
